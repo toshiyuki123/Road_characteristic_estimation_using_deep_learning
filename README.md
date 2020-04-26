@@ -10,7 +10,7 @@ In the process of generating vibration from high-dimensional image, we think tha
 <image src="pictures/encoder_decoder.png" width=80%>
 
 ## Target for verification
-We perform the experiment on a small vehicle to verify whether the low-dimensional intermediate layer on the road suface below  3 points.
+We perform the experiment on a small vehicle to verify whether the low-dimensional intermediate layer on the road suface of the picture below satisfies 3 points.
 
 <image src="pictures/Road.png" width=80%>
 
