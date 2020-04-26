@@ -22,7 +22,7 @@ y_valid = np.load(args.vib_dir+'/valid.npy')
 
 
 def main():
-    X = tf.placeholder(tf.float32, shape=(None, 150, 150, 3), name="X")  # [minibatch, height, width, channel]
+    X = tf.placeholder(tf.float32, shape=(None, 150, 150, 3), name="X") 
     y = tf.placeholder(tf.float32, shape=(None, 3, 256, 1), name="y")
     training = tf.placeholder_with_default(False, shape=(), name='training')
     he_init = tf.variance_scaling_initializer()
