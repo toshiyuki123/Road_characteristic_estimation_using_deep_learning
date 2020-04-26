@@ -27,7 +27,7 @@ In this envrironment, tensorflow version is . and python version is .
 ``` 
   python model.py
 ```
-Then, you output the latent variables when the test images are input to the saved model
+Then, you output the latent variables of the picture below when the test images are input to the saved model.
 
 <image src="pictures/latent_space.png" width=45%>
 
