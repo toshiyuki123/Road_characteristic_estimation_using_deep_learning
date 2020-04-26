@@ -22,8 +22,8 @@ We perform the experiment on a small vehicle to verify whether the low-dimension
 <image src="pictures/encoder_decoder_exact.png" width=80%>
   
 ## Results
-First, you make the model from the image (X_train, X_test) and vibration (y_train, y_test) and preserve it.
-In this envrironment, tensorflow version is . and python version is .
+First, you make the model from the image (X_train) and vibration (y_train) and preserve it.
+In this envrironment, tensorflow version is 2.1.0. and python version is 3.5.2.
 ``` 
   python model.py
 ```
