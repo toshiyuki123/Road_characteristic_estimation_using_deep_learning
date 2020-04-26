@@ -29,6 +29,6 @@ In this envrironment, tensorflow version is 2.1.0. and python version is 3.5.2.
 ```
 Then, you output the latent variables of the picture below when the test images are input to the saved model.
 
-<image src="pictures/latent_space.png" width=45%>
+<image src="pictures/latent_space.png" width=40%>
 
 
