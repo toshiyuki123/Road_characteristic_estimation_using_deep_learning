@@ -23,7 +23,7 @@ We perform the experiment on a small vehicle to verify whether the low-dimension
   
 ## Results
 First, you make the model from the image (X_train) and vibration (y_train) and preserve it.
-In this envrironment, tensorflow version is 2.1.0. and python version is 3.5.2.
+In this envrironment, tensorflow version is 2.1.0 and python version is 3.5.2.
 ``` 
   python model.py
 ```
